@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bcd904b9.css",
+    "main.js": "/portfolio/static/js/main.6d9ab61a.js",
+    "static/js/453.6f52db02.chunk.js": "/portfolio/static/js/453.6f52db02.chunk.js",
+    "static/media/about.jpg": "/portfolio/static/media/about.90c749fda68a22f9c250.jpg",
+    "static/media/Atib-CV.pdf": "/portfolio/static/media/Atib-CV.850b5b862a5883947f17.pdf",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.501e55bae7463cab4f8d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.bcd904b9.css.map": "/portfolio/static/css/main.bcd904b9.css.map",
+    "main.6d9ab61a.js.map": "/portfolio/static/js/main.6d9ab61a.js.map",
+    "453.6f52db02.chunk.js.map": "/portfolio/static/js/453.6f52db02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd904b9.css",
+    "static/js/main.6d9ab61a.js"
+  ]
+}
